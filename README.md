@@ -92,3 +92,6 @@ Validation Accuracy: ~98.8%
 ### 📌 Future Improvements
 Add an “Unknown” class or thresholding to reject invalid/non-MRI inputs.
 Explore transfer learning with ResNet / EfficientNet for even better performance.
+
+## 📷 Example Streamlit App
+![Streamlit Demo](sample_streamlit.png)
