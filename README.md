@@ -10,6 +10,11 @@ The dataset comes from [Brain Tumor Classification (MRI) - Kaggle](https://www.k
 
 ---
 
+## 🌐 Live Demo
+Try the app here: [Brain Tumor Classification Streamlit App](https://ap8s8ozvsbn3vltarnujcp.streamlit.app/)
+
+---
+
 ## 🚀 Project Pipeline
 
 ### **Step 1: Dataset**
