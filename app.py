@@ -39,6 +39,7 @@ class BrainTumorCNN(torch.nn.Module):
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = BrainTumorCNN().to(device)
+model_path = os.path.join("models", "brain_tumor_cnn.pth")
 model.load_state_dict(torch.load("brain_tumor_cnn.pth", map_location=device))
 model.eval()
 
